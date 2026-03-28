@@ -17,27 +17,3 @@
 
 * 💻 Languages: Python(learning), C (learning), Rust (learning)
 * 🛠️ Tools: Git, Linux (beginner)
-
----
-
-## 📌 Projects (Growing...)
-...
----
-
-## 🎯 Goals
-
-* 🔥 Become highly skilled in systems & security
-
----
-
-## ⚡ Mindset
-
-> "Discipline beats motivation. Skill beats talent."
-
----
-
-## 📫 Connect (coming soon...)
-
-* GitHub: https://github.com/aminulislamhasib
-
----
